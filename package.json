@@ -1,0 +1,9 @@
+{
+  "name": "openweathermap-api",
+  "version": "1.0.0",
+  "description": "Connect to openweathermap api with simple query on cities and optional proxy",
+  "main": "index.js",
+  "repository": "git+https://github.com/Shikadai28/my-openweathermap-api.git",
+  "author": "Youness Tabib",
+  "license": "MIT"
+}
